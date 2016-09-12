@@ -1,0 +1,6 @@
+These are some of the C Programs I have worked on in one of my Networking Courses.
+Decode.c and Encode.c hade a small amount of code that the lecturer wrote 
+and we had to fill in the rest ourselves. The first two C files are used to implement
+an encryption algorithm that combines a Caeser Cypher and a removal of duplicate chars (
+duplicates are removed from the message and then a caeser cypher is applied
+)
